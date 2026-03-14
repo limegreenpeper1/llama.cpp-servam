@@ -138,6 +138,7 @@ add_library(llama
             models/rwkv7-base.cpp
             models/rwkv7.cpp
             models/seed-oss.cpp
+            models/sarvam-moe.cpp
             models/smallthinker.cpp
             models/smollm3.cpp
             models/stablelm.cpp
